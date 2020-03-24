@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'Dont follow us... <a href="https://twitter.com/">Dont</a>'
+footer: "Don't follow us... <a href="https://twitter.com/">Don't</a>"
 
 # Build settings
 markdown: kramdown
