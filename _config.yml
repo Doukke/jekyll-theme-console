@@ -6,7 +6,7 @@
 #  - index.md
 #  - about.md
 
-#footer: ´"Don't follow us..." <a href="https://twitter.com/">"Don't"</a>'
+#footer: ´Don't follow us... <a href="https://twitter.com/">Don't</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
