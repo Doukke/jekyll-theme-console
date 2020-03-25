@@ -4,7 +4,7 @@ title: /about
 permalink: /about/
 ---
 
-# cyber90-console
+# jekylltheme-console
 
 
 
