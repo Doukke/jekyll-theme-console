@@ -1,5 +1,5 @@
 ---
-title: /peter
+title: /cyber
 layout: page
 permalink: /cyber
 ---
