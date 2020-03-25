@@ -4,7 +4,7 @@ title: /about
 permalink: /about/
 ---
 
-# jekylltheme-console
+# jekyll-theme-console
 
 
 
