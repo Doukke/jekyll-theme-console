@@ -5,7 +5,8 @@ permalink: /contact
 ---
 
 # Get in touch?
-
+<html>
+    <body<
 <form action="//formspree.io/ricardobcgomes@gmail.com"
     method="POST">
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
@@ -13,3 +14,5 @@ permalink: /contact
   <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
   <input type="submit" value="Send">
 </form>
+</body>
+</html>
